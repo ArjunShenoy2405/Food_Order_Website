@@ -1,0 +1,21 @@
+.container{
+    width: 1200px;
+    clear: both;
+}
+.container input{
+    width: 80px;
+    clear: both;
+}
+.tbl-rate{
+    width: 50%;
+    align-content: center;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 2%;
+    text-align: left;
+}
+
+table tr td{
+    padding: 2%;
+}
